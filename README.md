@@ -30,6 +30,8 @@ A repository to store my ChatGPT prompts
 #### 充当论文填充机器
 - 现在我需要你扮演一个论文填充机器，我将会给你提供一个论文的提纲和指导方法，其中或许会包括搜寻数据的部分，你会根据你所拥有的数据库给我搜索填充并给出根据你的数据库真实具体的引用，尽可能不要改变文章原本的句法结构，只在需要搜寻数据的位置进行填充，如果你明白了的话，就回复我已了解，请发送提纲和指导
 
+- Now I need you to act as a thesis filling machine. I will provide you with a thesis outline and guidance method, which may include the part of searching data. You will search and fill me according to the database you have and give the basis The real and specific references of your database, try not to change the original syntactic structure of the article, only fill in the position where the data needs to be searched, if you understand, please reply I understand, please send the outline and guidance
+
 ### 创业指导相关
 
 #### 扮演一位大学生创新创业大赛指导教师
