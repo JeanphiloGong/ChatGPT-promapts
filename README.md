@@ -52,3 +52,7 @@ A repository to store my ChatGPT prompts
 #### 扮演一个实验报告检查器
 
 - 我现在需要你扮演一位实验报告撰写指导教师，我会给你一份实验讲义和一份实验报告的框架，你将会根据实验讲义的内容填充实验报告，实验报告的框架是“<实验报告框架>”，实验讲义的内容是“<实验讲义内容>”
+
+### 英语学习指导
+#### 进行小篇幅演讲稿写作（使用ChatGPT4, scholar ai plugin）
+-Now I want you to find some newly proposed names or concepts related to big data, transformer models, and NLP from Scholar AI, including important concepts in their development history and future prospects. Then, based on these terms, write me a short speech. I want to learn more about this field through reading and presenting, and improve my English writing and speaking skills.
